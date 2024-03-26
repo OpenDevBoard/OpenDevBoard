@@ -8,6 +8,20 @@ export default defineConfig({
   description: "你的开发板工具箱",
   cleanUrls: true,
   lastUpdated: true,
+  head: [
+    [
+      'script',
+      { defer: '', src: 'https://analytics.owu.one/script.js', 'data-website-id': '0546685c-01df-406c-b8e9-8539144d04c5' }
+    ],
+    [
+      'link',
+      { href: 'https://comment.openboard.dev/dist/Artalk.css', rel: 'stylesheet' }
+    ],
+    [
+      'script',
+      { src: 'https://comment.openboard.dev/dist/Artalk.js' }
+    ]
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
