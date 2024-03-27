@@ -6,7 +6,7 @@ titleTemplate: false
 hero:
   name: "Open DevBoard"
   text: "你的开发板工具箱"
-  tagline: 镜像、资料、文档
+  tagline: 镜像、SDK、资料、文档
   actions:
     - theme: brand
       text: 下载镜像
