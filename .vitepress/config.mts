@@ -22,26 +22,41 @@ export default defineConfig({
       { src: 'https://comment.openboard.dev/dist/Artalk.js' }
     ]
   ],
+  markdown: {
+    container: {
+      tipLabel: '提示',
+      warningLabel: '警告',
+      dangerLabel: '危险',
+      infoLabel: '信息',
+      detailsLabel: '详细信息'
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    outline: [2, 3],
     nav: [
       { text: '下载镜像', link: '/download/' },
       { text: '查阅计划', link: '/roadmap' },
-      { text: '参与', link: '/contribute'},
-      { text: '交流', link: '/community'},
-      { text: '捐助', link: '/donate'},
-      { text: '关于', link: '/about'},
+      {
+        text: '更多',
+        items: [
+          { text: '参与', link: '/contribute' },
+          { text: '交流', link: '/community' },
+          { text: '捐助', link: '/donate' },
+          { text: '关于', link: '/about' }
+        ]
+      },
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    // sidebar: [
+    //   {
+    //     text: 'Examples',
+    //     items: [
+    //       { text: 'Markdown Examples', link: '/markdown-examples' },
+    //       { text: 'Runtime API Examples', link: '/api-examples' }
+    //     ]
+    //   }
+    // ],
     editLink: {
       pattern: 'https://github.com/OpenDevBoard/OpenDevBoard/edit/main/:path'
     },
