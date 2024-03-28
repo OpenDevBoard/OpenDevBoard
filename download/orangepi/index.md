@@ -9,6 +9,7 @@ description: 查找并下载你手中OrangePi开发板的系统镜像、操作�
 
 - [OrangePi 5 Plus](./5plus)
 - [OrangePi 5B](./5b)
+- [OrangePi 5](./5)
 
 ## OrangePi 4系列
 
@@ -17,6 +18,7 @@ description: 查找并下载你手中OrangePi开发板的系统镜像、操作�
 ## OrangePi 3系列
 
 - [OrangePi 3B](./3b)
+- [OrangePi 3 LTS](./3lts)
 
 ## OrangePi Zero系列
 
@@ -27,3 +29,4 @@ description: 查找并下载你手中OrangePi开发板的系统镜像、操作�
 ## 其它单品
 
 - [OrangePi AI Pro](./aipro)
+- [OrangePi Compute Module 4](./cm4)
