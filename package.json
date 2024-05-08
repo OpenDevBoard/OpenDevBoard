@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "artalk": "^2.8.3",
+    "artalk": "^2.8.5",
     "vitepress": "^1.0.1"
   },
   "scripts": {
