@@ -35,8 +35,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     outline: [2, 3],
     nav: [
-      { text: '下载镜像', link: '/download/' },
-      { text: '查阅计划', link: '/roadmap' },
+      { text: '下载', link: '/download/' },
+      { text: '计划', link: '/roadmap' },
+      { text: '捐助', link: '/donate' },
       {
         text: '更多',
         items: [

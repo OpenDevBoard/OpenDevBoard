@@ -9,11 +9,14 @@ hero:
   tagline: 镜像、SDK、资料、文档
   actions:
     - theme: brand
-      text: 下载镜像
+      text: 下载
       link: /download/
     - theme: alt
-      text: 查阅计划
+      text: 计划
       link: /roadmap
+    - theme: alt
+      text: 捐助
+      link: /donate
 
 features:
   - title: 高速下载
