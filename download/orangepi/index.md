@@ -10,9 +10,12 @@ description: 查找并下载你手中OrangePi开发板的系统镜像、操作�
 为了最大程度便利您的下载体验，我们目前尚未对由我们维护的分流直链施加任何限制。
 :::
 
+[**更新日志**](./changelog)
+
 ## OrangePi 5系列
 
 - [OrangePi 5 Plus](./5plus)
+- [OrangePi 5 Pro](./5pro)
 - [OrangePi 5B](./5b)
 - [OrangePi 5](./5)
 
@@ -33,5 +36,6 @@ description: 查找并下载你手中OrangePi开发板的系统镜像、操作�
 
 ## 其它单品
 
+- [OrangePi Kunpeng Pro](./kunpengpro)
 - [OrangePi AI Pro](./aipro)
 - [OrangePi Compute Module 4](./cm4)
