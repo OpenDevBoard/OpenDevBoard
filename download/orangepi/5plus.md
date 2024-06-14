@@ -12,7 +12,7 @@ description: 查找并下载你手中OrangePi 5 Plus开发板的系统镜像、�
 | 类型     | 版本 / Build                                                 |
 | -------- | ------------------------------------------------------------ |
 | 官方下载 | [最新版](https://pan.baidu.com/share/init?surl=HhkWppPuzrvC6W_XsoFQrQ&pwd=fyx9) (提取码：`fyx9`) |
-| Linux5   | [23.05.1](https://dl.openboard.dev/img/orangepi/opi5plus/opios_arch/opios_arch_aarch64_gnome_opi5plus_23.05.1_linux5.10.110.img.xz) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/opios_arch/opios_arch_aarch64_gnome_opi5plus_23.05.1_linux5.10.110.img.xz.md5) |
+| Linux5   | [24.04](https://dl.openboard.dev/img/orangepi/opi5plus/opios_arch/Opios-arch-aarch64-gnome-opi5plus-24.04-linux5.10.160.img.xz) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/opios_arch/Opios-arch-aarch64-gnome-opi5plus-24.04-linux5.10.160.img.xz.md5sum) |
 
 ### OrangePi OS (OH)
 
