@@ -37,13 +37,13 @@ export default defineConfig({
     nav: [
       { text: '下载', link: '/download/' },
       { text: '计划', link: '/roadmap' },
-      { text: '捐助', link: '/donate' },
+      { text: '赞助', link: '/donate' },
       {
         text: '更多',
         items: [
           { text: '参与', link: '/contribute' },
           { text: '交流', link: '/community' },
-          { text: '捐助', link: '/donate' },
+          { text: '赞助', link: '/donate' },
           { text: '关于', link: '/about' }
         ]
       },

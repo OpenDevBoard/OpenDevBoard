@@ -15,7 +15,7 @@ hero:
       text: 计划
       link: /roadmap
     - theme: alt
-      text: 捐助
+      text: 赞助
       link: /donate
 
 features:

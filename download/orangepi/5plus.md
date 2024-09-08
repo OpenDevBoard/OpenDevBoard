@@ -5,6 +5,15 @@ description: 查找并下载你手中OrangePi 5 Plus开发板的系统镜像、�
 
 # OrangePi 5 Plus资料下载
 
+::: tip 给我们打点钱吧 🥺
+站点存储的镜像越来越多，站长的钱包要撑不住了😫，如果我们提供的镜像服务帮到了你，就考虑一下给我们[打点钱](/donate)吧
+:::
+
+::: warning 请注意
+请不要在公开场合（论坛、群聊、其它可公开访问的网站等）发布本站维护的镜像分流**直链**。同时恳请您手下留情，不要滥用这些镜像分流直链。
+为了最大程度便利您的下载体验，我们目前尚未对由我们维护的分流直链施加任何限制。
+:::
+
 ## 官方镜像
 
 ### OrangePi OS (Arch)
@@ -34,14 +43,14 @@ description: 查找并下载你手中OrangePi 5 Plus开发板的系统镜像、�
 | 类型                     | 版本 / Build                                                 |
 | ------------------------ | ------------------------------------------------------------ |
 | 官方下载                 | [最新版](https://pan.baidu.com/share/init?surl=cQR1pcca0P-xuQbTrnGXAw&pwd=pjhv) (提取码：`pjhv`) |
-| Linux6 / 22.04 / desktop | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1.43/jammy/orangepi5plus_1.0.8_ubuntu_jammy_desktop_xfce_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1.43/jammy/orangepi5plus_1.0.8_ubuntu_jammy_desktop_xfce_linux6.1.43.7z.md5) |
-| Linux6 / 22.04 / server  | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1.43/jammy/orangepi5plus_1.0.8_ubuntu_jammy_server_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1.43/jammy/orangepi5plus_1.0.8_ubuntu_jammy_server_linux6.1.43.7z.md5) |
-| Linux6 / 20.04 / desktop | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1.43/focal/orangepi5plus_1.0.8_ubuntu_focal_desktop_xfce_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1.43/focal/orangepi5plus_1.0.8_ubuntu_focal_desktop_xfce_linux6.1.43.7z.md5) |
-| Linux6 / 20.04 / server  | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1.43/focal/orangepi5plus_1.0.8_ubuntu_focal_server_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1.43/focal/orangepi5plus_1.0.8_ubuntu_focal_server_linux6.1.43.7z.md5) |
-| Linux5 / 22.04 / desktop | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/jammy/desktop/orangepi5plus_1.0.8_ubuntu_jammy_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/jammy/desktop/orangepi5plus_1.0.8_ubuntu_jammy_desktop_xfce_linux5.10.160.7z.md5) |
-| Linux5 / 22.04 / server  | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/jammy/server/orangepi5plus_1.0.8_ubuntu_jammy_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/jammy/server/orangepi5plus_1.0.8_ubuntu_jammy_server_linux5.10.160.7z.md5) |
-| Linux5 / 20.04 / desktop | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/focal/desktop/orangepi5plus_1.0.8_ubuntu_focal_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/focal/desktop/orangepi5plus_1.0.8_ubuntu_focal_desktop_xfce_linux5.10.160.7z.md5) |
-| Linux5 / 20.04 / server  | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/focal/server/orangepi5plus_1.0.8_ubuntu_focal_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/focal/server/orangepi5plus_1.0.8_ubuntu_focal_server_linux5.10.160.7z.md5) |
+| Linux6 / 22.04 / desktop | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1/Orangepi5plus_1.0.10_ubuntu_jammy_desktop_xfce_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1/Orangepi5plus_1.0.10_ubuntu_jammy_desktop_xfce_linux6.1.43.7z) |
+| Linux6 / 22.04 / server  | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1/Orangepi5plus_1.0.10_ubuntu_jammy_server_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1/Orangepi5plus_1.0.10_ubuntu_jammy_server_linux6.1.43.7z.md5) |
+| Linux6 / 20.04 / desktop | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1/Orangepi5plus_1.0.10_ubuntu_focal_desktop_xfce_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1/Orangepi5plus_1.0.10_ubuntu_focal_desktop_xfce_linux6.1.43.7z.md5) |
+| Linux6 / 20.04 / server  | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1/Orangepi5plus_1.0.10_ubuntu_focal_server_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux6.1/Orangepi5plus_1.0.10_ubuntu_focal_server_linux6.1.43.7z.md5) |
+| Linux5 / 22.04 / desktop | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/Orangepi5plus_1.0.10_ubuntu_jammy_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/Orangepi5plus_1.0.10_ubuntu_jammy_desktop_xfce_linux5.10.160.7z.md5) |
+| Linux5 / 22.04 / server  | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/Orangepi5plus_1.0.10_ubuntu_jammy_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/Orangepi5plus_1.0.10_ubuntu_jammy_server_linux5.10.160.7z.md5) |
+| Linux5 / 20.04 / desktop | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/Orangepi5plus_1.0.10_ubuntu_focal_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/Orangepi5plus_1.0.10_ubuntu_focal_desktop_xfce_linux5.10.160.7z.md5) |
+| Linux5 / 20.04 / server  | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/Orangepi5plus_1.0.10_ubuntu_focal_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/ubuntu/linux5.10/Orangepi5plus_1.0.10_ubuntu_focal_server_linux5.10.160.7z.md5) |
 
 
 ### Debian
@@ -49,14 +58,14 @@ description: 查找并下载你手中OrangePi 5 Plus开发板的系统镜像、�
 | 类型                  | 版本 / Build                                                 |
 | --------------------- | ------------------------------------------------------------ |
 | 官方下载              | [最新版](https://pan.baidu.com/share/init?surl=_cj7P94P51BeJJd5L56kmA&pwd=9jcn) (提取码：`9jcn`) |
-| Linux6 / 12 / desktop | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1.43/bookworm/orangepi5plus_1.0.8_debian_bookworm_desktop_xfce_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1.43/bookworm/orangepi5plus_1.0.8_debian_bookworm_desktop_xfce_linux6.1.43.7z.md5) |
-| Linux6 / 12 / server  | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1.43/bookworm/orangepi5plus_1.0.8_debian_bookworm_server_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1.43/bookworm/orangepi5plus_1.0.8_debian_bookworm_server_linux6.1.43.7z.md5) |
-| Linux6 / 11 / desktop | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1.43/bullseye/orangepi5plus_1.0.8_debian_bullseye_desktop_xfce_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1.43/bullseye/orangepi5plus_1.0.8_debian_bullseye_desktop_xfce_linux6.1.43.7z.md5) |
-| Linux6 / 11 / server  | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1.43/bullseye/orangepi5plus_1.0.8_debian_bullseye_server_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1.43/bullseye/orangepi5plus_1.0.8_debian_bullseye_server_linux6.1.43.7z.md5) |
-| Linux5 / 12 / desktop | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/bookworm/desktop/orangepi5plus_1.0.8_debian_bookworm_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/bookworm/desktop/orangepi5plus_1.0.8_debian_bookworm_desktop_xfce_linux5.10.160.7z.md5) |
-| Linux5 / 12 / server  | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/bookworm/server/orangepi5plus_1.0.8_debian_bookworm_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/bookworm/server/orangepi5plus_1.0.8_debian_bookworm_server_linux5.10.160.7z.md5) |
-| Linux5 / 11 / desktop | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/bullseye/desktop/orangepi5plus_1.0.8_debian_bullseye_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/bullseye/desktop/orangepi5plus_1.0.8_debian_bullseye_desktop_xfce_linux5.10.160.7z.md5) |
-| Linux5 / 11 / server  | [1.0.8](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/bullseye/desktop/orangepi5plus_1.0.8_debian_bullseye_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/bullseye/desktop/orangepi5plus_1.0.8_debian_bullseye_desktop_xfce_linux5.10.160.7z.md5) |
+| Linux6 / 12 / desktop | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1/Orangepi5plus_1.0.10_debian_bookworm_desktop_xfce_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1/Orangepi5plus_1.0.10_debian_bookworm_desktop_xfce_linux6.1.43.7z.md5) |
+| Linux6 / 12 / server  | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1/Orangepi5plus_1.0.10_debian_bookworm_server_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1/Orangepi5plus_1.0.10_debian_bookworm_server_linux6.1.43.7z.md5) |
+| Linux6 / 11 / desktop | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1/Orangepi5plus_1.0.10_debian_bullseye_desktop_xfce_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1/Orangepi5plus_1.0.10_debian_bullseye_desktop_xfce_linux6.1.43.7z.md5) |
+| Linux6 / 11 / server  | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1/Orangepi5plus_1.0.10_debian_bullseye_server_linux6.1.43.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux6.1/Orangepi5plus_1.0.10_debian_bullseye_server_linux6.1.43.7z.md5) |
+| Linux5 / 12 / desktop | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/Orangepi5plus_1.0.10_debian_bookworm_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/Orangepi5plus_1.0.10_debian_bookworm_desktop_xfce_linux5.10.160.7z.md5) |
+| Linux5 / 12 / server  | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/Orangepi5plus_1.0.10_debian_bookworm_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/Orangepi5plus_1.0.10_debian_bookworm_server_linux5.10.160.7z.md5) |
+| Linux5 / 11 / desktop | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/Orangepi5plus_1.0.10_debian_bullseye_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/Orangepi5plus_1.0.10_debian_bullseye_desktop_xfce_linux5.10.160.7z.md5) |
+| Linux5 / 11 / server  | [1.0.10](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/Orangepi5plus_1.0.10_debian_bullseye_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opi5plus/debian/linux5.10/Orangepi5plus_1.0.10_debian_bullseye_server_linux5.10.160.7z.md5) |
 
 ### Android
 

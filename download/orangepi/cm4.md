@@ -5,6 +5,15 @@ description: 查找并下载你手中OrangePi Compute Module 4开发板的系统
 
 # OrangePi Compute Module 4资料下载
 
+::: tip 给我们打点钱吧 🥺
+站点存储的镜像越来越多，站长的钱包要撑不住了😫，如果我们提供的镜像服务帮到了你，就考虑一下给我们[打点钱](/donate)吧
+:::
+
+::: warning 请注意
+请不要在公开场合（论坛、群聊、其它可公开访问的网站等）发布本站维护的镜像分流**直链**。同时恳请您手下留情，不要滥用这些镜像分流直链。
+为了最大程度便利您的下载体验，我们目前尚未对由我们维护的分流直链施加任何限制。
+:::
+
 ## 官方镜像
 
 ### OrangePi OS (Arch)
@@ -19,10 +28,10 @@ description: 查找并下载你手中OrangePi Compute Module 4开发板的系统
 | 类型            | 版本 / Build                                                 |
 | --------------- | ------------------------------------------------------------ |
 | 官方下载        | [最新版](https://pan.baidu.com/share/init?surl=sQJd2i-LLny6tCJPNfwADg&pwd=ycjy) (提取码：`ycjy`) |
-| Linux5 / 22.04 / desktop | [1.0.4](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/jammy/desktop/orangepicm4_1.0.4_ubuntu_jammy_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/jammy/desktop/orangepicm4_1.0.4_ubuntu_jammy_desktop_xfce_linux5.10.160.7z.md5) |
-| Linux5 / 22.04 / server | [1.0.4](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/jammy/server/orangepicm4_1.0.4_ubuntu_jammy_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/jammy/server/orangepicm4_1.0.4_ubuntu_jammy_server_linux5.10.160.7z.md5) |
-| Linux5 / 20.04 / desktop | [1.0.4](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/focal/desktop/orangepicm4_1.0.4_ubuntu_focal_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/focal/desktop/orangepicm4_1.0.4_ubuntu_focal_desktop_xfce_linux5.10.160.7z.md5) |
-| Linux5 / 20.04 / server  | [1.0.4](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/focal/server/orangepicm4_1.0.4_ubuntu_focal_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/focal/server/orangepicm4_1.0.4_ubuntu_focal_server_linux5.10.160.7z.md5) |
+| Linux5 / 22.04 / desktop | [1.0.6](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/Orangepicm4_1.0.6_ubuntu_jammy_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/Orangepicm4_1.0.6_ubuntu_jammy_desktop_xfce_linux5.10.160.7z.md5) |
+| Linux5 / 22.04 / server | [1.0.6](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/Orangepicm4_1.0.6_ubuntu_jammy_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/Orangepicm4_1.0.6_ubuntu_jammy_server_linux5.10.160.7z.md5) |
+| Linux5 / 20.04 / desktop | [1.0.6](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/Orangepicm4_1.0.6_ubuntu_focal_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/Orangepicm4_1.0.6_ubuntu_focal_desktop_xfce_linux5.10.160.7z.md5) |
+| Linux5 / 20.04 / server  | [1.0.6](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/Orangepicm4_1.0.6_ubuntu_focal_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/ubuntu/Orangepicm4_1.0.6_ubuntu_focal_server_linux5.10.160.7z.md5) |
 
 
 ### Debian
@@ -30,10 +39,10 @@ description: 查找并下载你手中OrangePi Compute Module 4开发板的系统
 | 类型         | 版本 / Build                                                 |
 | ------------ | ------------------------------------------------------------ |
 | 官方下载     | [最新版](https://pan.baidu.com/share/init?surl=ASUIF-v0i5HWloJHYuqCoQ&pwd=ts1s) (提取码：`ts1s`) |
-| Linux5 / 12 / desktop | [1.0.4](https://dl.openboard.dev/img/orangepi/opicm4/debian/bookworm/desktop/orangepicm4_1.0.4_debian_bookworm_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/debian/bookworm/desktop/orangepicm4_1.0.4_debian_bookworm_desktop_xfce_linux5.10.160.7z.md5) |
-| Linux5 / 12 / server  | [1.0.4](https://dl.openboard.dev/img/orangepi/opicm4/debian/bookworm/server/orangepicm4_1.0.4_debian_bookworm_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/debian/bookworm/server/orangepicm4_1.0.4_debian_bookworm_server_linux5.10.160.7z.md5) |
-| Linux5 / 11 / desktop | [1.0.4](https://dl.openboard.dev/img/orangepi/opicm4/debian/bullseye/desktop/orangepicm4_1.0.4_debian_bullseye_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/debian/bullseye/desktop/orangepicm4_1.0.4_debian_bullseye_desktop_xfce_linux5.10.160.7z.md5) |
-|Linux5 /  11 / server  | [1.0.4](https://dl.openboard.dev/img/orangepi/opicm4/debian/bullseye/server/orangepicm4_1.0.4_debian_bullseye_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/debian/bullseye/server/orangepicm4_1.0.4_debian_bullseye_server_linux5.10.160.7z.md5) |
+| Linux5 / 12 / desktop | [1.0.6](https://dl.openboard.dev/img/orangepi/opicm4/debian/Orangepicm4_1.0.6_debian_bookworm_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/debian/Orangepicm4_1.0.6_debian_bookworm_desktop_xfce_linux5.10.160.7z.md5) |
+| Linux5 / 12 / server  | [1.0.6](https://dl.openboard.dev/img/orangepi/opicm4/debian/Orangepicm4_1.0.6_debian_bookworm_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/debian/Orangepicm4_1.0.6_debian_bookworm_server_linux5.10.160.7z.md5) |
+| Linux5 / 11 / desktop | [1.0.6](https://dl.openboard.dev/img/orangepi/opicm4/debian/Orangepicm4_1.0.6_debian_bullseye_desktop_xfce_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/debian/Orangepicm4_1.0.6_debian_bullseye_desktop_xfce_linux5.10.160.7z.md5) |
+|Linux5 /  11 / server  | [1.0.6](https://dl.openboard.dev/img/orangepi/opicm4/debian/Orangepicm4_1.0.6_debian_bullseye_server_linux5.10.160.7z) / [MD5](https://dl.openboard.dev/img/orangepi/opicm4/debian/Orangepicm4_1.0.6_debian_bullseye_server_linux5.10.160.7z.md5) |
 
 ### Android
 
