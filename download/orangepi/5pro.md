@@ -3,7 +3,7 @@ title: OrangePi 5 Pro资料下载
 description: 查找并下载你手中OrangePi 5 Pro开发板的系统镜像、操作指南等资料。
 ---
 
-# OrangePi 5 Plus资料下载
+# OrangePi 5 Pro 资料下载
 
 ::: tip 给我们打点钱吧 🥺
 站点存储的镜像越来越多，站长的钱包要撑不住了😫，如果我们提供的镜像服务帮到了你，就考虑一下给我们[打点钱](/donate)吧
